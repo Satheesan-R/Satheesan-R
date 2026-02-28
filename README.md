@@ -1,38 +1,68 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<br>
 
+<!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/rajasekar-satheesan-460208332" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/rajasekar-satheesan-460208332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://youtube.com/@satheeshvlogs2025" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
+  <a href="https://youtube.com/@satheeshvlogs2025" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
 
-###
+<br>
 
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Satheesan-R.Satheesan-R&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Satheesan-R.Satheesan-R"/>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋I'm Satheesan.</h1>
+<h1 align="center">👋 Hey there, I'm Satheesan</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+<p align="left">
+🎓 Second-year Computer Science undergraduate at UCSC  
+💡 Interested in Software Engineering, Web Development & UI/UX Design  
+🚀 Passionate about building real-world applications  
+⚡ Hobbies: Football ⚽ | Cricket 🏏 | Music 🎵
+</p>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m Second-year Computer Science undergraduate at UCSC.<br>- 📚 I'm currently  Interested in Software Engineering, Web Development & UI/UX Design.<br>- ⚡ In my free time, I enjoy Playing football, cricket, and listening to music</p>
 
-###
+
+## 🏆 Featured Projects
+
+### 🚗 Smart Vehicle Service Booking System
+✔ Middleware-based architecture  
+✔ Service booking and tracking system  
+✔ NodeJS + MySQL backend APIs  
+✔ Real-world workflow implementation  
+
+
+
+### 🧾 PHP MySQL Database Form System
+✔ User form validation  
+✔ Database data insertion and feedback system  
+✔ PHP + HTML + CSS + MySQL  
+
+
+
+### 💻 Programming & Algorithm Practice
+✔ Data structures in C  
+✔ Memory management simulation  
+✔ Algorithm problem solving  
+
+---
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
